@@ -33,7 +33,7 @@ const InfoBoard: FC<IInfoBoardProps> = (props: IInfoBoardProps) => {
 				<li>You must reach the sidewalk in the middle of the screen without getting hit by any vehicles.</li>
 				<li>You must not fall in the water on the way to one of the slots at the top. Ride the turtles and logs to the top, but don't get pulled off the side of the screen.</li>
 				<li>Beware of diving turtles. If Frogger is on them when they dive, he loses a life.</li>
-				<li>Avoid crocodile mouths, catch flies in the slots for bonus points, and bring the lady frog to your home for more bonus points.</li>
+				<li>=Zack Livermore is awarded 1st place with 21880 Points! Well Done!</li>
 			</ul>
 		</div>
 
