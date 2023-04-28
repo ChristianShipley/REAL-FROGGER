@@ -11,7 +11,7 @@ const sprites: ISpriteProps[] = [
 		y: 12,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.CAR1,
-		speed: 50,
+		speed: 60,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -21,7 +21,7 @@ const sprites: ISpriteProps[] = [
 		y: 12,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.CAR1,
-		speed: 50,
+		speed: 60,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -31,7 +31,7 @@ const sprites: ISpriteProps[] = [
 		y: 12,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.CAR1,
-		speed: 50,
+		speed: 60,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -41,7 +41,7 @@ const sprites: ISpriteProps[] = [
 		y: 11,
 		direction: DirectionEnum.RIGHT,
 		image: ImageEnum.CAR2,
-		speed: 40,
+		speed: 50,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -51,7 +51,7 @@ const sprites: ISpriteProps[] = [
 		y: 11,
 		direction: DirectionEnum.RIGHT,
 		image: ImageEnum.CAR2,
-		speed: 40,
+		speed: 50,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -61,7 +61,7 @@ const sprites: ISpriteProps[] = [
 		y: 11,
 		direction: DirectionEnum.RIGHT,
 		image: ImageEnum.CAR2,
-		speed: 40,
+		speed: 50,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -71,7 +71,7 @@ const sprites: ISpriteProps[] = [
 		y: 10,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.CAR3,
-		speed: 30,
+		speed: 40,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -81,7 +81,7 @@ const sprites: ISpriteProps[] = [
 		y: 10,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.CAR3,
-		speed: 30,
+		speed: 40,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -91,7 +91,7 @@ const sprites: ISpriteProps[] = [
 		y: 10,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.CAR3,
-		speed: 30,
+		speed: 40,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -101,7 +101,7 @@ const sprites: ISpriteProps[] = [
 		y: 9,
 		direction: DirectionEnum.RIGHT,
 		image: ImageEnum.CAR4,
-		speed: 20,
+		speed: 30,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -111,7 +111,7 @@ const sprites: ISpriteProps[] = [
 		y: 8,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.LORRY_FRONT,
-		speed: 45,
+		speed: 55,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -121,7 +121,7 @@ const sprites: ISpriteProps[] = [
 		y: 8,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.LORRY_BACK,
-		speed: 45,
+		speed: 55,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -131,7 +131,7 @@ const sprites: ISpriteProps[] = [
 		y: 8,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.LORRY_FRONT,
-		speed: 45,
+		speed: 55,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -141,7 +141,7 @@ const sprites: ISpriteProps[] = [
 		y: 8,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.LORRY_BACK,
-		speed: 45,
+		speed: 55,
 		type: SpriteTypeEnum.VEHICLE
 	},
 	{
@@ -151,7 +151,7 @@ const sprites: ISpriteProps[] = [
 		y: 6,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.TURTLE1,
-		speed: 20,
+		speed: 30,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
@@ -161,7 +161,7 @@ const sprites: ISpriteProps[] = [
 		y: 6,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.TURTLE1,
-		speed: 20,
+		speed: 30,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
@@ -171,7 +171,7 @@ const sprites: ISpriteProps[] = [
 		y: 6,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.TURTLE1,
-		speed: 20,
+		speed: 30,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
@@ -181,7 +181,7 @@ const sprites: ISpriteProps[] = [
 		y: 6,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.TURTLE1,
-		speed: 20,
+		speed: 30,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
@@ -191,7 +191,7 @@ const sprites: ISpriteProps[] = [
 		y: 6,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.TURTLE1,
-		speed: 20,
+		speed: 30,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
@@ -201,7 +201,7 @@ const sprites: ISpriteProps[] = [
 		y: 6,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.TURTLE1,
-		speed: 20,
+		speed: 30,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
@@ -211,7 +211,7 @@ const sprites: ISpriteProps[] = [
 		y: 6,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.TURTLE1,
-		speed: 20,
+		speed: 30,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
@@ -221,7 +221,7 @@ const sprites: ISpriteProps[] = [
 		y: 6,
 		direction: DirectionEnum.LEFT,
 		image: ImageEnum.TURTLE1,
-		speed: 20,
+		speed: 30,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
@@ -311,7 +311,7 @@ const sprites: ISpriteProps[] = [
 		y: 4,
 		direction: DirectionEnum.RIGHT,
 		image: ImageEnum.LOG_LEFT,
-		speed: 30,
+		speed: 40,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
@@ -321,7 +321,7 @@ const sprites: ISpriteProps[] = [
 		y: 4,
 		direction: DirectionEnum.RIGHT,
 		image: ImageEnum.LOG_CENTRE,
-		speed: 30,
+		speed: 40,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
@@ -331,7 +331,7 @@ const sprites: ISpriteProps[] = [
 		y: 4,
 		direction: DirectionEnum.RIGHT,
 		image: ImageEnum.LOG_CENTRE,
-		speed: 30,
+		speed: 40,
 		type: SpriteTypeEnum.RAFT
 	},
 	{
