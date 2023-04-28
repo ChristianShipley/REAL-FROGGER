@@ -525,7 +525,7 @@ const sprites: ISpriteProps[] = [
 	},
 	{
 		key: 'log3-6',
-		visable: true,
+		visable: false,
 		x: 9,
 		y: 2,
 		direction: DirectionEnum.RIGHT,
@@ -535,7 +535,7 @@ const sprites: ISpriteProps[] = [
 	},
 	{
 		key: 'log3-7',
-		visable: true,
+		visable: false,
 		x: 10,
 		y: 2,
 		direction: DirectionEnum.RIGHT,
@@ -545,7 +545,7 @@ const sprites: ISpriteProps[] = [
 	},
 	{
 		key: 'log3-8',
-		visable: true,
+		visable: false,
 		x: 11,
 		y: 2,
 		direction: DirectionEnum.RIGHT,
@@ -555,7 +555,7 @@ const sprites: ISpriteProps[] = [
 	},
 	{
 		key: 'log3-9',
-		visable: true,
+		visable: false,
 		x: 13,
 		y: 2,
 		direction: DirectionEnum.RIGHT,
@@ -565,7 +565,7 @@ const sprites: ISpriteProps[] = [
 	},
 	{
 		key: 'log3-10',
-		visable: true,
+		visable: false,
 		x: 14,
 		y: 2,
 		direction: DirectionEnum.RIGHT,
